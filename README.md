@@ -4,7 +4,7 @@ This is an angular web application that allows users to write Quotes, upvote or 
 
 ## Author
 
--   Hanad Ahmed Abdi
+-   Hanad Ahmed 
 
 ## Project Description
 
