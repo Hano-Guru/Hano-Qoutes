@@ -23,3 +23,4 @@ describe('QuotesDetailsComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+ 
