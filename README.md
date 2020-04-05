@@ -31,7 +31,7 @@ This is an angular web application that allows users to write Quotes, upvote or 
 
 ## Live Link
 
-[Quotes](  )
+[Quotes]( )
 
 
 ## License ([MIT License](   ))
