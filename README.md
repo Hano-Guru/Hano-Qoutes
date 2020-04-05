@@ -23,7 +23,7 @@ This is an angular web application that allows users to write Quotes, upvote or 
 -   CSS
 -   JavaScript and jQuery
 -   Bootstrap
--   Google photo
+-   Google photos
 
 ## Contact Information
 
