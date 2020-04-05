@@ -8,7 +8,7 @@ This is an angular web application that allows users to write Quotes, upvote or 
 
 ## Project Description
 
-    This web application allows users to write Quotes , upvote or downvote the Quotes and delete whenever they want.
+    This web application allows users to write Quotes ,upvote or downvote the Quotes and delete whenever they want.
 
 ## Project setup  installation
 
