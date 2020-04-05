@@ -33,3 +33,4 @@ export class QuotesDetailsComponent implements OnInit {
   }
 
 }
+ 
