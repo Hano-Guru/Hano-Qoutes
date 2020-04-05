@@ -28,6 +28,7 @@ This is an angular web application that allows users to write Quotes, upvote or 
 ## Contact Information
 
 -   Email ( bashiromar94@gmail.com)
+-   0740090705
 
 ## Live Link
 
